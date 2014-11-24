@@ -2,7 +2,7 @@
 
 quick and easy slide decks, [biggie](http://macwright.org/biggie/)-style!
 
-it's just biggie's [CLI](https://github.com/tmcw/biggie/blob/gh-pages/cli.js) sans extras.
+it's just biggie's [CLI](https://github.com/tmcw/biggie/blob/gh-pages/cli.js).
 
 try `npm install; npm run demo`.
 
@@ -12,5 +12,5 @@ try `npm install; npm run demo`.
 ```
 npm install -g
 
-tiny --style style.css slides.md > slides.html
+tiny [ --style style.css ] slides.md > slides.html
 ```
