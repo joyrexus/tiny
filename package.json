@@ -1,5 +1,5 @@
 {
-  "name": "tiny",
+  "name": "tiny-slides",
   "version": "0.0.1",
   "description": "big-style slide decks via markdown",
   "main": "index.js",
