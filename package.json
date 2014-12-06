@@ -1,6 +1,6 @@
 {
   "name": "tiny-slides",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "big-style slide decks via markdown",
   "main": "index.js",
   "scripts": {
@@ -15,6 +15,15 @@
     "slides",
     "markdown"
   ],
+  "homepage": "http://joyrexus.github.io/tiny",
+  "repository": { 
+    "type" : "git", 
+    "url" : "http://github.com/joyrexus/tiny.git"
+  },
+  "bugs": { 
+    "url" : "http://github.com/joyrexus/tiny/issues", 
+    "email" : "jvoigt@uchicago.edu"
+  },
   "author": "joyrexus",
   "license": "BSD-2-Clause",
   "dependencies": {
