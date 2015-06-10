@@ -35,8 +35,6 @@ window.onload = function() {
         } else {
             body.style.backgroundImage = '';
             body.style.backgroundColor = e.style.backgroundColor;
-            body.style.backgroundSize = '';
-            body.style.backgroundPosition = '';
         }
         if (ti !== undefined) window.clearInterval(ti);
         t = parseInt(e.dataset.timeToNext || 0, 10);
